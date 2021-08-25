@@ -1,2 +1,1 @@
-console.log("estaba jugando ayer");
-
+console.log("estará jugando pronto");
