@@ -1,1 +1,2 @@
-console.log("esta jugando ahora");
+console.log("estaba jugando ayer");
+
