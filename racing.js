@@ -1,1 +1,1 @@
-console.log("esta jugando ahora");
+console.log("estará jugando pronto");
